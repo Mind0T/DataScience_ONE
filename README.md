@@ -59,12 +59,12 @@ Además, busco que este repositorio sea una herramienta de inspiración para otr
 
 ## 👨‍💻 Autor
 
-**Irvin [Tu Apellido]**  
-- Estudiante de Ingeniería en Inteligencia Artificial  
-- Data Science Trainee en Oracle Next Education - Generación 9  
+**Irvin Soriano**  
+- Estudiante de Ingeniería en Inteligencia Artificial - ESCOM IPN
+- Data Science Student en Oracle Next Education - Generación 9 Especialización en Data Science 
 - Apasionado por el análisis de datos, el aprendizaje automático y la aplicación de la IA en la vida real.  
 
-📫 Puedes contactarme en: [Tu correo o LinkedIn]
+📫 Puedes contactarme en: www.linkedin.com/in/irving-soriano
 
 ---
 
